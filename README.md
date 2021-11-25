@@ -11,3 +11,7 @@ Download all files to the same location on your computer. Drag and drop the busT
 ## Roadmap
 
 Future updates to this program will include additional routes and a drop down to select the route to display.
+
+## License Information
+
+Please read all information located in the LICENSE file in this repository.
