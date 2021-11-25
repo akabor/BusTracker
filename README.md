@@ -1,4 +1,4 @@
-# BusTracker
+# Bus Tracker
 
 ## Project Description
 
